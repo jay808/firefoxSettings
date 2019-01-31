@@ -18,11 +18,11 @@
 }
 
 :root[uidensity=compact]  {
-  --tab-min-height_tnot: 28px;
+  --tab-min-height_tnot: 32px;
 }
 
 :root[uidensity=touch] {
-  --tab-min-height_tnot: 40px;
+  --tab-min-height_tnot: 32px;
 }
 
 /* tabs toolbar adjustment */
